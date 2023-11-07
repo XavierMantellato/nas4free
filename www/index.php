@@ -1,6 +1,6 @@
 <?php
 /*
-	index.php
+	index.phphhh
 
 	Part of NAS4Free (http://www.nas4free.org).
 	Copyright (c) 2012-2017 The NAS4Free Project <info@nas4free.org>.
